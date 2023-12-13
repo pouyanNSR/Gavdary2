@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: Gavdary2, Configuration: Debug Any CPU ------
+1>C:\Users\Nasiri-PC\source\repos\Gavdary2\Gavdary2\Program.cs(64,12,64,18): warning CS8618: Non-nullable property 'Environments' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Nasiri-PC\source\repos\Gavdary2\Gavdary2\Program.cs(51,19,51,23): warning CS8618: Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Nasiri-PC\source\repos\Gavdary2\Gavdary2\Program.cs(52,14,52,21): warning CS8618: Non-nullable property 'Current' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>C:\Users\Nasiri-PC\source\repos\Gavdary2\Gavdary2\Program.cs(53,14,53,22): warning CS8618: Non-nullable property 'Standard' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.
+1>Gavdary2 -> C:\Users\Nasiri-PC\source\repos\Gavdary2\Gavdary2\bin\Debug\net6.0\Gavdary2.dll
+1>Done building project "Gavdary2.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
